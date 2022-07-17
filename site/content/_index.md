@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "zTech IT Solutionz serving Nevada/Placer and Yuba Counties"
+subtitle: Support local buisness while getting the most dedicated IT services
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
